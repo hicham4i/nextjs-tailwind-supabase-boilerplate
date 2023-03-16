@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next JS 13+, Tailwind CSS 3.2 and TypeScript [![Twitter]()]()
+# Boilerplate and Starter for Next JS 13+, Tailwind CSS 3.2 and TypeScript
 
 ## Getting Started
 🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, VSCode, Tailwind CSS.
