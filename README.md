@@ -1,6 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Boilerplate and Starter for Next JS 13+, Tailwind CSS 3.2 and TypeScript [![Twitter]()]()
 
 ## Getting Started
+🚀 Boilerplate and Starter for Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, VSCode, Tailwind CSS.
+
+
+### Features
+
+Developer experience first:
+
+- ⚡ [Next.js](https://nextjs.org) for Static Site Generator
+- 🔥 Type checking [TypeScript](https://www.typescriptlang.org)
+- 💎 Integrate with [Tailwind CSS](https://tailwindcss.com)
+- ✅ Strict Mode for TypeScript and React 18
+- 📏 Linter with [ESLint](https://eslint.org) (default NextJS, NextJS Core Web Vitals, Tailwind CSS and Airbnb configuration)
+- 💖 Code Formatter with [Prettier](https://prettier.io)
+- 💡 Absolute Imports using `@` prefix
+- 🗺️ Sitemap.xml and robots.txt with next-sitemap
+- 🌈 Include a FREE minimalist theme
+- 💯 Maximize lighthouse score
+
+Built-in feature from Next.js:
+
+- ☕ Minify HTML & CSS
+- 💨 Live reload
+- ✅ Cache busting
+
 
 First, run the development server:
 
